@@ -1,3 +1,25 @@
+[TODO]
+
+- Learn react again with JS
+- Learn flask
+- Get a generic frontend going for the cards
+- Integrate socket.io
+
+
+[Tech stack]
+
+Frontend:
+
+React
+Socket.io client
+Cards: https://deckofcardsapi.com/
+Music?
+
+Backend:
+
+Python flask
+Socket.io server
+
 [Switch Rules]
 
 - Each player starts with 7 cards from the deck
